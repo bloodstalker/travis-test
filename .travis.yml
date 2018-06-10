@@ -8,6 +8,7 @@ before_script:
   - whereis bash
 
 script: 
+  - make
 
 after_failure:
 
