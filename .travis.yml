@@ -1,0 +1,14 @@
+dist: trusty
+sudo: required
+language: cpp
+
+before_install:
+
+before_script: 
+  - whereis bash
+
+script: 
+
+after_failure:
+
+after_success:
